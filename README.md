@@ -59,8 +59,8 @@ Feel free to fork this project, open issues, or submit pull requests to improve 
 
 ## 📧 Contact  
 
-**Project Maintainer:** Saket Prasad
-**Email:** saketxprasad@gmail.com
+**Project Maintainer:** Saket Prasad  
+**Email:** saketxprasad@gmail.com  
 
 ---
 
